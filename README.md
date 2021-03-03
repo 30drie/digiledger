@@ -15,12 +15,13 @@ I am not a bookkeeper or an accountant so some stuff I have to figure out. Also,
 
 ## Options to use
 1. Host it yourself. It requires some technical knowledge and other stuff and you have to pay for hosting and everything else yourself.
-2. Share the hosting through 30Drie. The goal is to have a monthly subscription of €1 with full functionality. This should make the system available for anyone.
+2. Share the hosting through 30Drie. The goal is to have a monthly subscription between €1 and €2 with full functionality. This should make the system available for anyone.
 
 ## Technical stuff
 1. Base will be C# on .NET 5 or newer.
 2. We will use Blazor as web application.
 3. SQL Server on Azure
 4. Azure's Computer Vision API to scan invoices and bills.
+5. Mollie to make payments.
 
 In a later stage we might move to Blazor WebAssembly and perhaps Blazor Hybrid.
