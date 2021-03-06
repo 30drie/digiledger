@@ -9,7 +9,6 @@
     <Folder Include="Invoicing\" />
     <Folder Include="Bank\" />
     <Folder Include="Purchasing\" />
-    <Folder Include="Stem\" />
   </ItemGroup>
 
 </Project>
