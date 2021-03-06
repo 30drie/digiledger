@@ -22,6 +22,6 @@ I am not a bookkeeper or an accountant so some stuff I have to figure out. Also,
 2. We will use Blazor as web application.
 3. SQL Server on Azure
 4. Azure's Computer Vision API to scan invoices and bills.
-5. Mollie to make payments.
+5. Mollie/Stripe to make payments.
 
 In a later stage we might move to Blazor WebAssembly and perhaps Blazor Hybrid.
